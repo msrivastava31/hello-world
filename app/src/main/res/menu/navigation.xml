@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_sports"
+        android:icon="@mipmap/sports"
+        android:title="@string/title_sports"
+        android:textSize="20sp"/>
+
+    <item
+        android:id="@+id/navigation_music"
+        android:icon="@mipmap/music"
+        android:title="@string/title_music" />
+
+    <item
+        android:id="@+id/navigation_books"
+        android:icon="@mipmap/books"
+        android:title="@string/title_books" />
+
+
+</menu>
