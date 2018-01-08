@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="sportsBackground">#99e6ff</color>
+    <color name="musicBackground">#ffeb99</color>
+    <color name="booksBackground">#b3ff99</color>
+
+
 </resources>
